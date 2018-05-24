@@ -183,6 +183,7 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="about.h" />
     <ClInclude Include="process_killer.h" />
     <ClInclude Include="process_killerDlg.h" />
     <ClInclude Include="Resource.h" />
@@ -190,6 +191,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="about.cpp" />
     <ClCompile Include="process_killer.cpp" />
     <ClCompile Include="process_killerDlg.cpp" />
     <ClCompile Include="stdafx.cpp">
