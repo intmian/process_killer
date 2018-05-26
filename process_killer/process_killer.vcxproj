@@ -213,6 +213,10 @@
     <None Include="res\processkiller.rc2" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\..\..\..\Downloads\bitbug_favicon (2).ico" />
+    <Image Include="..\..\..\..\Downloads\bitbug_favicon (4).ico" />
+    <Image Include="res\bitbug_favicon (3).ico" />
+    <Image Include="res\bitbug_favicon (4).ico" />
     <Image Include="res\process_killer.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
