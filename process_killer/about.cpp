@@ -6,7 +6,6 @@
 #include "about.h"
 #include "afxdialogex.h"
 
-
 // about 对话框
 
 IMPLEMENT_DYNAMIC(about, CDialogEx)
