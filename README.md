@@ -18,4 +18,4 @@ process killer可以在后台以极低的性能损耗帮助你定时关闭一些
 ## 下载
 
 [v1.2](https://github.com/intmian/process_killer/releases/tag/1.2)
-[v1.1](https://github.com/intmian/process_killer/releases/tag/1.11)(旧版)
+[v1.11](https://github.com/intmian/process_killer/releases/tag/1.11)(旧版)
